@@ -33,4 +33,8 @@ table{
 tr:nth-child(odd){
     background-color: violet;
 }
+.name:hover{
+    border:4px solid;
+    text-shadow: 2px 2px 5px green;
+}
 
