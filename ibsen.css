@@ -21,3 +21,16 @@ p.direction:hover{
 .SOLNESS{
     color: rgb(7, 7, 231);
 }
+
+table{
+    font-size: medium;
+    border: 5px red ;
+    color: blue;
+    text-align: center;
+    padding: 12px;
+    margin: 3px;
+}
+tr:nth-child(odd){
+    background-color: violet;
+}
+
