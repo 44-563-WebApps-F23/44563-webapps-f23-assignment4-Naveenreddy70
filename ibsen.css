@@ -38,3 +38,34 @@ tr:nth-child(odd){
     text-shadow: 2px 2px 5px green;
 }
 
+.name:hover { background-color: #77b9b2; 
+
+    color: rgb(114, 69, 33); 
+
+    filter:blur(0.5px);
+
+}
+
+
+.navbar {
+
+background-color: #24268d; 
+
+text-align: center;
+
+padding: 10px 0; 
+
+}
+
+
+
+.navbar a {
+
+display: inline-block;
+
+margin: 0 20px; 
+
+text-decoration: none;
+
+color: #fff;
+}
