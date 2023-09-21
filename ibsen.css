@@ -24,7 +24,7 @@ p.direction:hover{
 
 table{
     font-size: medium;
-    border: 5px red ;
+    border: 5px red  solid;
     color: blue;
     text-align: center;
     padding: 12px;
