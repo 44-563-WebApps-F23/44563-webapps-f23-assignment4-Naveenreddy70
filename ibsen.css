@@ -1,62 +1,23 @@
-..speech{
+p.speech{
     font: message-box;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: larger;
-    color: rgb(34, 208, 68);
+    color: blacks;
 }
-.direction{
+p.direction{
     font: medium;
     font-family: 'Times New Roman', Times, serif;
     font-size: medium;
-    background-color: rgb(180, 127, 255);
+    background-color: rgb(41, 10, 213);
 }
-.direction:hover{
-    background-color: rgb(147, 15, 15);
-    color: brown;
+p.direction:hover{
+    background-color: rgb(134, 214, 36);
+    color: rgb(212, 13, 13);
 }
 .KAIA{
     color: rgb(100, 237, 196);
 
 }
 .SOLNESS{
-    color: darkblue;
+    color: rgb(7, 7, 231);
 }
-table{
-    font-size: medium;
-    border: 5px rgb(126, 128, 127) ;
-    color: rgb(12, 127, 147);
-    text-align: center;
-    padding: 12px;
-    margin: 3px;
-}
-tr:nth-child(odd) {
-    background-color: rgb(58, 50, 51);
-  }
-.KAIA:hover{
-    color: rgb(2, 164, 102);
-    border: 1px solid rgb(186, 69, 118);
-    text-shadow: 2px 3px 4px;
-    filter: blur(1px);
-  }
-.SOLNESS:hover{
-    border: 1px solid rgb(23, 97, 40);
-    color: rgb(136, 16, 16);
-    text-shadow: 2px 3px 4px;
-    filter: blur(1px);
-}
-ul.navbar-horizontal {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    }
-    ul.navbar-horizontal li {
-    color:#2d6a4b;
-    background-color:rgb(105, 164, 141)
-    }
-    ul.navbar-horizontal a {
-    display:block;
-    padding:8px}
-ul.navbar-horizontal:hover a{
-    background-color: rgb(48, 156, 19);
-    color:rgb(51, 39, 207);
-}    
